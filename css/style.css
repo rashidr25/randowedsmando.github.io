@@ -1255,7 +1255,8 @@ footer .copyright {
 }
 
 .hero .hero-img {
-  height: 100vh;
+  height: 100%;
+  width: 100%;
   background-repeat: no-repeat;
   position: relative;
 }
