@@ -27,7 +27,7 @@ URL:            http://themeforest.net/user/astheme
 #popupbox
   {
     width: 50%;
-    height: 50%;
+    height: 50vh;
     background-color:white; 
     border-radius: 4px;
     text-align: center;
