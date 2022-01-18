@@ -1245,6 +1245,7 @@ footer .copyright {
 ***********************/
 .hero {
   position: relative;
+  height: 100vh;
   
 }
 
