@@ -1251,7 +1251,7 @@ footer .copyright {
 
 @media (max-width: 767px) {
   .hero {
-    min-height: 420px;
+    max-height: 400px;
   }
 }
 
