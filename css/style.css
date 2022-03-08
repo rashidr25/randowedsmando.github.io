@@ -31,7 +31,8 @@ URL:            http://themeforest.net/user/astheme
     background-color:white; 
     border-radius: 25px;
     text-align: center;
-    
+    vertical-align: middle;
+    line-height: 90px;
   }
 body {
   font-family: "Roboto", sans-serif;
