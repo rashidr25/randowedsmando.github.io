@@ -32,6 +32,10 @@ URL:            http://themeforest.net/user/astheme
     border-radius: 25px;
     text-align: center;
     vertical-align: middle;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
   }
 body {
   font-family: "Roboto", sans-serif;
